@@ -1,0 +1,9 @@
+build/
+dist/
+helloworld.egg-info
+*/*.egg
+venv/
+.venv/
+**/*.pyc
+**/__pycache__
+**/*.log
